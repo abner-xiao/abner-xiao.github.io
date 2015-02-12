@@ -13,12 +13,12 @@ if ($(window).width() <= 1280) {
 // Variables
     tag1       = $('.pl__all'),
     tag2       = $('.android'),
-    tag3       = $('.语法'),
-    tag4       = $('.food'),
+    tag3       = $('.java'),
+    tag4       = $('.shell'),
     tag5       = $('.photoshop'),
     tag6       = $('.linux'),
-    tag7       = $('.综合');
-    tag8       = $('.rom');
+    tag7       = $('.分享');
+    tag8       = $('.有感而发');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
