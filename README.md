@@ -1,31 +1,34 @@
-Freelancer Jekyll theme
-=========================
+dbyll
+=====
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+Open source stylish, minimalistic theme for jekyll.  
+Demo: http://dbtek.github.io/dbyll/
 
-## How to use
- - Place a image in `/img/portoflio/`
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+## New
+Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
 
----
-```
+### Features
+- Responsive layout.
+- Supports tags and categories.
+- Social profile and bio of author.
+- Bootstrap based.
+- Glyphicon and Font-Awesome Icons.
+- Pagination.
+- Syntax highlighting with pygments.
+- Disqus comments.
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+### Download
+* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+### Screenshots
+
+![dbyll-screenshot](	assets/media/dbyll-ss.png)
+
+### License
+- [MIT](http://opensource.org/licenses/MIT)
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
