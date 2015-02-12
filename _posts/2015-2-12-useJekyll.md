@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "使用Jekyll在Github上搭建个人博客（博客编写）"
-date:   2014-02-12 11:15:11
-categories: 分享
+date:	2014-02-12 11:15:11
+categories:	android
 ---
 
 ## 创建项目 ##
