@@ -13,10 +13,10 @@ blog:
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name:        abner                                        # 作者名称
-    email:          10109225292@qq.com                                     # 邮箱地址
-    weibo:                                               # 微博地址
-    github:          abner-xiao.github.io                                    # GitHub地址
+    name:	abner                                    # 作者名称
+    email:	10109225292@qq.com                       # 邮箱地址
+    weibo:	http://weibo.com/u/1769200751            # 微博地址
+    github:	https://github.com/abner-xiao            # GitHub地址
     logo:                                                # logo地址
     douban:
         name:                                            # 豆瓣地址名称
