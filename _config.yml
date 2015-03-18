@@ -5,19 +5,19 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name:                                                # 博客名称
-    description:                                         # 博客描述
-    title:                                               # 网页标题
-    url:                                                 # 博客地址
+    name:	海鸥                                                # 博客名称
+    description:	希望有一天像海鸥一样自由翱翔在蓝天碧海间                                         # 博客描述
+    title:	海鸥Blog                                               # 网页标题
+    url:	abner-xiao.github.io                # 博客地址
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name:	abner                                    # 作者名称
+    name:	abner                                    		# 作者名称
     email:	10109225292@qq.com                       # 邮箱地址
     weibo:	http://weibo.com/u/1769200751            # 微博地址
     github:	https://github.com/abner-xiao            # GitHub地址
-    logo:                                                # logo地址
+    logo:	/res/img/beauty.jpg                            # logo地址
     douban:
         name:                                            # 豆瓣地址名称
         key:                                             # 豆瓣API Key
