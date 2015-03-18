@@ -1,5 +1,9 @@
-3/17/2015 1:49:41 PM 
-#ViewHolder模式的一种简洁写法
+---
+layout:	post
+title:	"ViewHolder模式的一种简洁写法"
+date:	2015-03-18 17:30:00
+---
+
 我们经常用的ViewHolder的写法如下：
 
 	@Override
