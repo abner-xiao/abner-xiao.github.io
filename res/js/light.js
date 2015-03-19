@@ -46,10 +46,8 @@ $(document).ready(function() {
         scrolling: 'no',
     });
     // Pictures
-    var images = ["/res/img/bg/01.jpg", "/res/img/bg/02.jpg", "/res/img/bg/03.jpg","/res/img/bg/04.jpg"];
-    images.sort(function() {
-        return Math.random() > 0.5 ? -1 : 1
-    });
+    var images = "/res/img/bg/01.jpg";
+    
     $(".sidebar").backstretch(images, {
         fade: 1500,
         duration: 15000,
