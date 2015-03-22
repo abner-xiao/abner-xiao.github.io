@@ -22,7 +22,7 @@ categories:	Android
 		}
 
 	}
-
+<!-- more -->
 	private static class ViewHolder{
 		
 		//需要使用的View的定义
