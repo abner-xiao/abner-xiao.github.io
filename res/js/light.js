@@ -49,7 +49,7 @@ $(document).ready(function() {
     var images = "/res/img/bg/01.jpg";
     
     $(".sidebar").backstretch(images, {
-        fade: 1500,
+        fade: 150,
         duration: 15000,
     })
 });
