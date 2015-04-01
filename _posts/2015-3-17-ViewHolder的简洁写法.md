@@ -2,7 +2,7 @@
 layout:	post
 title:	"ViewHolder模式的一种简洁写法"
 date:	2015-03-18 17:30:00
-categories:	Android
+categories:	android
 ---
 
 我们经常用的ViewHolder的写法如下：
@@ -22,11 +22,13 @@ categories:	Android
 		}
 
 	}
-<!-- more -->
+
 	private static class ViewHolder{
 		
 		//需要使用的View的定义
 	}
+
+<!-- more -->
 
 但是往往我们在一个项目中要用到多个Adapter，每一个Adapter都得重复的这样写确实很不爽，那么有没有一种方法在一个类里完成，然后在每个Adapter里直接调用呢？
 

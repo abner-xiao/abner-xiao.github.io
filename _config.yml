@@ -9,7 +9,7 @@ blog:
     description:	希望有一天像海鸥一样自由翱翔在蓝天碧海间                                         # 博客描述
     title:	海鸥Blog                                               # 网页标题
     url:	abner-xiao.github.io                # 博客地址
-    duoshuo:                                             # 多说ID
+    duoshuo:	abner                                    # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
